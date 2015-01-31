@@ -17,6 +17,8 @@ Significant Weather and Upper Winds and Temperature.  On submission of user inpu
 
 The Wordpress site administrator can simply display modules for METAR and TAF, Significant Weather and Upper Winds and Temperature via the below shortcodes.
 
+A Live preview can be view at [Howtoflyahelicopter.com Aviation Weather Section](http://howtoflyahelicopter.com/aviation-weather-briefing/)
+
 == Installation ==
 
 Upload the Aviation Weather Briefing plugin to your blog and activate.
